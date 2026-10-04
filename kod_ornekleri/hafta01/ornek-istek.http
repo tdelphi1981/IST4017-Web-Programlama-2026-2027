@@ -1,0 +1,5 @@
+GET /etkinlikler HTTP/1.1
+Host: biletsistemi.example.com
+User-Agent: curl/8.4.0
+Accept: application/json
+
