@@ -13,6 +13,7 @@ Materyaller her hafta eklenir. Her haftanın durumu `haftaNN` etiketiyle sabitle
 | Hafta | Konu | Ders Notu | Slayt | Lab | Cheatsheet | Quiz | Kod |
 |---|---|---|---|---|---|---|---|
 | 1 | Web'in Temelleri: Ağdan HTTP'ye | [PDF](ders-notu/Hafta01_Webin_Temelleri.pdf) | [Slayt](slides/Hafta01_Webin_Temelleri.pdf) | [Lab](labs/Lab01_Webin_Temelleri.pdf) | [Özet](cheatsheets/Hafta01_Webin_Temelleri.pdf) | [Quiz](quizzes/Hafta01_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta01) |
+| 2 | HTML5 ve CSS3: Sunum Katmanının İlk Malzemesi | [PDF](ders-notu/Hafta02_HTML5_ve_CSS3.pdf) | [Slayt](slides/Hafta02_HTML5_ve_CSS3.pdf) | [Lab](labs/Lab02_HTML5_ve_CSS3.pdf) | [Özet](cheatsheets/Hafta02_HTML5_ve_CSS3.pdf) | [Quiz](quizzes/Hafta02_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta02) |
 
 ## Klasörler
 

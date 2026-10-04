@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bahar Konseri - Etkinlik Detayı</title>
+  <link rel="stylesheet" href="stiller.css">
+</head>
+<body>
+<header>
+  <nav class="site-nav">
+    <ul>
+      <li><a href="index.html">Etkinlikler</a></li>
+      <li><a href="etkinlik-detay.html">Bilet Al</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  <h1>Bahar Konseri</h1>
+  <p>15 Mayıs 2026 &middot; Açık Hava Amfisi &middot; Kapasite: 500</p>
+
+  <h2>Bilet Alma Adımları</h2>
+  <ol>
+    <li>Aşağıdaki koltuk planından boş bir koltuk seçin.</li>
+    <li>Bilet formunu ad soyad, tarih ve koltuk sınıfı bilgileriyle doldurun.</li>
+    <li>Gönder düğmesine basarak biletinizi tamamlayın.</li>
+  </ol>
+
+  <h2>Koltuk Planı</h2>
+  <!-- BEGIN koltuk_plani -->
+  <div class="koltuk-plani">
+    <div class="koltuk">A1</div>
+    <div class="koltuk">A2</div>
+    <div class="koltuk">A3</div>
+    <div class="koltuk">A4</div>
+    <div class="koltuk">B1</div>
+    <div class="koltuk">B2</div>
+    <div class="koltuk">B3</div>
+    <div class="koltuk">B4</div>
+    <div class="koltuk">C1</div>
+    <div class="koltuk">C2</div>
+    <div class="koltuk">C3</div>
+    <div class="koltuk">C4</div>
+  </div>
+  <!-- END koltuk_plani -->
+
+  <h2>Bilet Formu</h2>
+  <!-- BEGIN bilet_formu -->
+  <!-- BEGIN form_etiket_eslesmesi -->
+  <form>
+    <fieldset>
+      <legend>Bilet Bilgileri</legend>
+
+      <p>
+        <label for="ad-soyad">Ad Soyad</label>
+        <input type="text" id="ad-soyad" name="ad-soyad" required>
+      </p>
+      <!-- END form_etiket_eslesmesi -->
+
+      <!-- BEGIN form_girdi_turleri -->
+      <p>
+        <label for="etkinlik-tarihi">Tarih</label>
+        <input type="date" id="etkinlik-tarihi" name="etkinlik-tarihi" value="2026-05-15">
+      </p>
+
+      <p>
+        <label for="bilet-adedi">Bilet Adedi</label>
+        <input type="number" id="bilet-adedi" name="bilet-adedi" min="1" max="10" value="1">
+      </p>
+      <!-- END form_girdi_turleri -->
+
+      <!-- BEGIN form_secim_ve_gonder -->
+      <p>
+        <label for="koltuk-sinifi">Koltuk Sınıfı</label>
+        <select id="koltuk-sinifi" name="koltuk-sinifi">
+          <option value="ekonomi">Ekonomi</option>
+          <option value="orta">Orta Kat</option>
+          <option value="vip">VIP</option>
+        </select>
+      </p>
+
+      <button type="submit">Gönder</button>
+    </fieldset>
+  </form>
+  <!-- END form_secim_ve_gonder -->
+  <!-- END bilet_formu -->
+</main>
+
+<footer>
+  <p>&copy; 2026 KTÜ Etkinlik ve Bilet Sistemi &middot; <a href="https://www.ktu.edu.tr" target="_blank" rel="noopener">ktu.edu.tr</a></p>
+</footer>
+</body>
+</html>
