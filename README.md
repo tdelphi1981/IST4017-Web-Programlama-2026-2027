@@ -1,4 +1,4 @@
-# Web Programlama — 2026-2027
+# IST4017 Web Programlama — 2026-2027
 
 **React, TypeScript ve FastAPI ile uçtan uca web uygulamaları**
 
