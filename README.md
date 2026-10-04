@@ -6,7 +6,7 @@ Karadeniz Teknik Üniversitesi | Fen Fakültesi, Bilgisayar Bilimleri | 2026-202
 
 Öğretim üyesi: Doç. Dr. Tolga Berber
 
-Materyaller her hafta eklenir. Her haftanın durumu `haftaNN` etiketiyle sabitlenir; yalnız o haftaya kadarki içeriği görmek için ilgili etiketi seçin.
+Materyaller her hafta eklenir. Her haftanın ilk yayımlandığı hâl `haftaNN` etiketiyle sabitlenir. Sonradan yapılan düzeltmeler `Düzeltme:` commit'leriyle main dalına işlenir; en güncel materyal için her zaman main dalını kullanın.
 
 ## Haftalık Plan
 
