@@ -1,0 +1,64 @@
+<!-- BEGIN sayfa_iskeleti -->
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>KTÜ Etkinlik ve Bilet Sistemi</title>
+</head>
+<body>
+<header>
+  <nav class="site-nav">
+    <ul>
+      <li><a href="#etkinlikler">Etkinlikler</a></li>
+      <li><a href="#bilet-al">Bilet Al</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+<!-- END sayfa_iskeleti -->
+
+  <h1>KTÜ Etkinlik ve Bilet Sistemi</h1>
+  <p>Kampüsteki güncel etkinlikleri inceleyin, dilediğiniz etkinlik için bilet almaya başlayın.</p>
+
+  <section id="etkinlikler">
+    <h2>Öne Çıkan Etkinlikler</h2>
+    <div class="etkinlik-listesi" id="etkinlik-listesi"></div>
+  </section>
+
+  <section id="bilet-al">
+    <h2>Bilet Al</h2>
+    <p>15 Mayıs 2026 &middot; Açık Hava Amfisi &middot; Kapasite: 500</p>
+
+    <h3>Koltuk Planı</h3>
+    <div class="koltuk-plani" id="koltuk-plani"></div>
+
+    <p class="secim-ozeti" id="secim-ozeti">Seçili koltuk: 0, Toplam: 0 TL</p>
+
+    <h3>Bilet Formu</h3>
+    <form id="bilet-formu">
+      <fieldset>
+        <legend>Bilet Bilgileri</legend>
+
+        <p>
+          <label for="ad-soyad">Ad Soyad</label>
+          <input type="text" id="ad-soyad" name="ad-soyad" required>
+        </p>
+
+        <button type="submit">Gönder</button>
+      </fieldset>
+    </form>
+  </section>
+
+</main>
+
+<footer>
+  <p>&copy; 2026 KTÜ Etkinlik ve Bilet Sistemi &middot; <a href="https://www.ktu.edu.tr" target="_blank" rel="noopener">ktu.edu.tr</a></p>
+</footer>
+
+<!-- BEGIN script_baglama -->
+<script type="module" src="/src/main.ts"></script>
+<!-- END script_baglama -->
+</body>
+</html>
