@@ -17,6 +17,7 @@ Materyaller her hafta eklenir. Her haftanın ilk yayımlandığı hâl `haftaNN`
 | 3 | JavaScript'ten TypeScript'e: Dil Modeli, Araçlar ve Asenkron Programlama | [PDF](ders-notu/Hafta03_JavaScriptten_TypeScripte.pdf) | [Slayt](slides/Hafta03_JavaScriptten_TypeScripte.pdf) | [Lab](labs/Lab03_JavaScriptten_TypeScripte.pdf) | [Özet](cheatsheets/Hafta03_JavaScriptten_TypeScripte.pdf) | [Quiz](quizzes/Hafta03_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta03) |
 | 4 | React I: Bileşenler | [PDF](ders-notu/Hafta04_React_I.pdf) | [Slayt](slides/Hafta04_React_I.pdf) | [Lab](labs/Lab04_React_I.pdf) | [Özet](cheatsheets/Hafta04_React_I.pdf) | [Quiz](quizzes/Hafta04_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta04) |
 | 5 | React II: Hook'lar, Form, Durum Paylaşımı | [PDF](ders-notu/Hafta05_React_II.pdf) | [Slayt](slides/Hafta05_React_II.pdf) | [Lab](labs/Lab05_React_II.pdf) | [Özet](cheatsheets/Hafta05_React_II.pdf) | [Quiz](quizzes/Hafta05_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta05) |
+| 6 | FastAPI I: HTTP'yi Koda Dökmek | [PDF](ders-notu/Hafta06_FastAPI_I.pdf) | [Slayt](slides/Hafta06_FastAPI_I.pdf) | [Lab](labs/Lab06_FastAPI_I.pdf) | [Özet](cheatsheets/Hafta06_FastAPI_I.pdf) | [Quiz](quizzes/Hafta06_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta06) |
 
 ## Klasörler
 

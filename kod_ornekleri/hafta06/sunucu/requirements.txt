@@ -1,0 +1,5 @@
+# BEGIN calisma_zamani_bagimliliklari
+fastapi~=0.141
+uvicorn[standard]~=0.52
+pydantic~=2.13
+# END calisma_zamani_bagimliliklari
