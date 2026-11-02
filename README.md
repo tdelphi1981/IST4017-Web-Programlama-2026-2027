@@ -18,6 +18,7 @@ Materyaller her hafta eklenir. Her haftanın ilk yayımlandığı hâl `haftaNN`
 | 4 | React I: Bileşenler | [PDF](ders-notu/Hafta04_React_I.pdf) | [Slayt](slides/Hafta04_React_I.pdf) | [Lab](labs/Lab04_React_I.pdf) | [Özet](cheatsheets/Hafta04_React_I.pdf) | [Quiz](quizzes/Hafta04_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta04) |
 | 5 | React II: Hook'lar, Form, Durum Paylaşımı | [PDF](ders-notu/Hafta05_React_II.pdf) | [Slayt](slides/Hafta05_React_II.pdf) | [Lab](labs/Lab05_React_II.pdf) | [Özet](cheatsheets/Hafta05_React_II.pdf) | [Quiz](quizzes/Hafta05_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta05) |
 | 6 | FastAPI I: HTTP'yi Koda Dökmek | [PDF](ders-notu/Hafta06_FastAPI_I.pdf) | [Slayt](slides/Hafta06_FastAPI_I.pdf) | [Lab](labs/Lab06_FastAPI_I.pdf) | [Özet](cheatsheets/Hafta06_FastAPI_I.pdf) | [Quiz](quizzes/Hafta06_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta06) |
+| 7 | React III: API Tüketimi ve Yönlendirme | [PDF](ders-notu/Hafta07_React_III.pdf) | [Slayt](slides/Hafta07_React_III.pdf) | [Lab](labs/Lab07_React_III.pdf) | [Özet](cheatsheets/Hafta07_React_III.pdf) | [Quiz](quizzes/Hafta07_Ogrenci.pdf) | [Kod](kod_ornekleri/hafta07) |
 
 ## Klasörler
 
