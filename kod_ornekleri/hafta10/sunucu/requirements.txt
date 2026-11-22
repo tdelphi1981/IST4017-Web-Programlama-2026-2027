@@ -1,0 +1,10 @@
+# BEGIN calisma_zamani_bagimliliklari
+fastapi~=0.141
+uvicorn[standard]~=0.52
+pydantic~=2.13
+sqlalchemy~=2.0
+pyjwt~=2.13
+bcrypt~=5.0
+python-multipart~=0.0.32
+pydantic-settings~=2.15
+# END calisma_zamani_bagimliliklari
